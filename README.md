@@ -1,10 +1,10 @@
 # bl_coords
 Simple FiveM script to copy coords to clipboard :)
 
-Use /coords to copy to clipboard.
+Usage: /vec2, /vec3, /vec4, /camcoords
 
 Renaming will probably cause a few issues with NUI callbacks.
 
-Uses Vector4 containing x,y,z,w.
+Original script: https://github.com/Benjamoon/bl_coords
 
-W BEING THE HEADING.
+I've just added vec2, vec3 commands for easier usage.
